@@ -1,2 +1,3 @@
 # HelloWorld
-SmartInITTest first project
+SmartInITTest first project.
+New Line
