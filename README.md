@@ -1,3 +1,3 @@
 # HelloWorld
-SmartInITTest first project
-first commit
+SmartInITTest first project.
+New Line
